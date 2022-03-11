@@ -1,0 +1,52 @@
+/*	.class
+		#id
+	*/
+	
+	main{
+    padding-top : 2%;
+    height: 682px;
+		margin-left:  2%;
+		margin-right:  2%;
+		width: 100%;
+    
+	}
+	footer{
+		margin-top:  2%;
+		margin-left:  1%;
+		margin-right:  1%;
+		width: 98%;
+		background-color: #0a8;
+		text-align: center;
+	}
+ 
+  .tit{
+    
+    font-size: 1em;
+    font-family: "Trirong", serif;
+    text-align: center;
+    color: white;
+    /*text-shadow: 2px 1px lightblue;*/
+
+  }
+  
+  .inp{
+    /*width: 30%;*/
+    font-size: 1em;
+  }
+  
+  .logo{
+
+    width : 90%;
+    width : calc(100% - 85px);
+    height : 90%;
+    width : calc(100% - 85px);
+
+  }
+  .notice{
+    border : 1px solid blue;
+    padding : 10px;
+    margin : 5%;
+    height: 100px;
+    width: 100px;
+  }
+  
